@@ -1,0 +1,36 @@
+/* Orange: #f9a528;
+Yellow: #fece05;
+Green: #3ab54b;
+LightBlue: #0d81c4; */
+
+h1,
+h2,
+h3 {
+  margin-top: 84px;
+  color: #0c55a4;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+.header-logo {
+  width: 200px;
+  transform: translateX(-18px);
+}
+
+.header-container {
+  /* background-color: #0d81c4; */
+}
+
+/* Leaflet continuous legends float the colour ramp and its label column, then
+   append the NA row after a <br>, which does not clear floats. The NA swatch
+   is itself a floated <i>, so when the labels are short (single digits on the
+   telecom map) there is horizontal room left over and the swatch floats up
+   beside the ramp instead of sitting below it. Clearing puts every swatch on
+   its own row regardless of legend width.
+   Targets the swatch, not its container: clearing the container would also
+   hit the label column on legends that have no NA row. */
+.info.legend i {
+  clear: left;
+}

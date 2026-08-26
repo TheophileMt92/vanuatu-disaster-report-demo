@@ -1,0 +1,10 @@
+"Sector","Region","ecce_schools","ecce_teachers","ecce_students","primary_schools","primary_teachers","primary_students","private_households_damaged","total_roof_damaged","roof_concrete_damaged","roof_metal_damaged","roof_wood_damaged","total_wall_damaged","wall_concrete_damaged","wall_metal_damaged","wall_wood_damaged","total_financial_damage","hospital_financial","health_centre_financial","dispensary_financial","aidpost_financial"
+"Education","South Santo 1",5,11,70,5,22,661,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Education","South East Santo",9,7,120,5,52,421,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Education","East Ambae",8,11,105,4,43,435,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Education","South East Malekula",14,21,195,11,42,1227,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Education","South East Ambrym",14,16,213,8,60,716,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Shelter Damage","South East Malekula",NA,NA,NA,NA,NA,NA,532,872,85,689,98,599,234,215,150,NA,NA,NA,NA,NA
+"Shelter Damage","South East Ambrym",NA,NA,NA,NA,NA,NA,608,548,58,384,106,584,216,184,184,NA,NA,NA,NA,NA
+"Health Financial","South East Malekula",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19750000,0,0,1.6e+07,3750000
+"Health Financial","South East Ambrym",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7500000,0,0,0,7500000

@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Quarto intermediates
+/.quarto/
+index.knit.md
+index.md
+
+# never commit anything from the client project
+/private/
+*.xlsx
+~$*
